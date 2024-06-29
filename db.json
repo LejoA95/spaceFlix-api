@@ -1,9 +1,33 @@
 { "spaceFlix": [
     {
         "id": 1,
-        "title": "Red One | Tráiler Oficial",
+        "title": "The Joker | Tráiler Oficial",
         "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrEYNFWxHq9dGjsB_MES1tacGgSPX6WXnwg&s",
-        "video": "https://www.youtube.com/watch?v=HMFK7mzUEKI",
+        "video": "https://www.youtube.com/watch?v=GD4RVzGgfbQ",
+        "category": "Trailer",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 2,
+        "title": "The Batman | Tráiler Oficial",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuJ80apLEAudM9mBiqd8Ji1K0XzktMvt-lA&s",
+        "video": "https://www.youtube.com/watch?v=5fExaDWYEGc",
+        "category": "Trailer",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 3,
+        "title": "MAtrix Resurrections | Tráiler Oficial",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVyVrLg7ACcotgkTyGE2TfFkt6JczbMg194Q&s",
+        "video": "https://www.youtube.com/watch?v=kGLfnrqsqII",
+        "category": "Trailer",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 4,
+        "title": "The Batman | Tráiler Oficial",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb0U_TSN_8qcROIZEbz2m8cWrZEyfy81b3w&s",
+        "video": "https://www.youtube.com/watch?v=YebuQmmQkyw",
         "category": "Trailer",
         "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
     }
