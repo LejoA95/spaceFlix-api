@@ -30,5 +30,21 @@
         "video": "https://www.youtube.com/watch?v=YebuQmmQkyw",
         "category": "Trailer",
         "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 5,
+        "title": "Un lugar en silencio: Día uno | Tráiler Oficial",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1_vM_Z6dQ2PxeTUbc9lJE30g1XcJwX8ujw&s",
+        "video": "https://www.youtube.com/watch?v=E-WIb4ATfT8",
+        "category": "Trailer",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 5,
+        "title": "Alien: Romulus | Tráiler Oficial",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBdk_XnRfqYZzFocRsNx_MaUBD1mygKHs2Q&s",
+        "video": "https://www.youtube.com/watch?v=kTpc5SoBVu0",
+        "category": "Trailer",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
     }
 ]}
