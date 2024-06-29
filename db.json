@@ -6,21 +6,5 @@
         "video": "https://www.youtube.com/watch?v=HMFK7mzUEKI",
         "category": "Trailer",
         "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
-    },
-    {
-        "id": 2,
-        "title": "Joker: Folie à Deux | Teaser Tráiler Oficial",
-        "capa": "https://drive.google.com/file/d/1eO_aLffGqU-ctNEZcTyPCJJ_c9OodMfS/view?usp=sharing",
-        "video": "https://www.youtube.com/watch?v=GD4RVzGgfbQ",
-        "category": "Trailer",
-        "description": "Tras una larga espera de cinco años, Todd Phillips y Warner Bros."
-    },
-    {
-        "id": 3,
-        "title": "Red One | Tráiler Oficial",
-        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaR0cWdrjnsJ1X-Pzt1JHFMpP3dLtZpOsmw&s",
-        "video": "https://www.youtube.com/watch?v=HMFK7mzUEKI",
-        "category": "Trailer",
-        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
-    },
+    }
 ]}
