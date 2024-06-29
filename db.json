@@ -46,5 +46,21 @@
         "video": "https://www.youtube.com/watch?v=kTpc5SoBVu0",
         "category": "Trailer",
         "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 6,
+        "title": "Happiness",
+        "capa": "https://catholic-link.com/wp-content/uploads/2017/12/ratas.jpg",
+        "video": "https://www.youtube.com/watch?v=e9dZQelULDk",
+        "category": "Cortometrajes",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
+    },
+    {
+        "id": 6,
+        "title": "Loop",
+        "capa": "https://lacriaturacreativa.com/wp-content/uploads/2023/02/LOOP-00.png",
+        "video": "https://www.youtube.com/watch?v=ijq_UkRKSFw&t=114s",
+        "category": "Cortometrajes",
+        "description": "Red One es una próxima película navideña estadounidense de acción y aventuras."
     }
 ]}
